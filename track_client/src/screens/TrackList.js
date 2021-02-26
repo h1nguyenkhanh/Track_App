@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native'
 const TrackList = () => {
     return (
         <View>
-            <Text></Text>
+            <Text>Track List</Text>
         </View>
     )
 }
